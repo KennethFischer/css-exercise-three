@@ -1,0 +1,57 @@
+body {
+  background-color: #333;
+  font-family: sans-serif;
+  font-family: Arial;
+  font-size: 10px;
+}
+
+.container {
+  margin: 0 auto;
+  width: 420px;
+}
+
+nav {
+  padding: 10px;
+  position: fixed;
+  width: 400px;
+  background-color: black;
+}
+
+.restaurant-list {
+  padding-top: 40px;
+}
+
+.location{
+  background-color: #dadada;
+  height: 70px;
+  padding: 10px;
+  border-bottom: 1px solid black;
+}
+
+.content{
+  width: 90%;
+  float: left;
+}
+
+.arrow{
+  width: 10%;
+  float: right;
+  padding-top: 5%;
+}
+
+.location:hover{
+  background-color: #666;
+
+}
+
+h1{
+    font-size: 2em;
+    font-weight: bold;
+    padding-bottom: 1%;
+    padding-top: 4%
+
+}
+
+h3{
+    font-size: 1.5em;
+}
